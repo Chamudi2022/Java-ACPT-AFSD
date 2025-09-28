@@ -21,6 +21,9 @@ public class Practical4 {
 
         }
 
+
+//        print
+
         System.out.println("final Income " + (pSalary+ pKudu + pProperty));
 
 
