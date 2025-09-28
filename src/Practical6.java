@@ -19,3 +19,5 @@ public class Practical6 {
         }
     }
 }
+
+//alert
